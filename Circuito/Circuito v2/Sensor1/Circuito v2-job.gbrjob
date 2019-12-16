@@ -1,0 +1,55 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "(5.0.0)"
+    },
+    "CreationDate":  "2018-10-11T02:55:31-03:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "Circuito v2",
+      "GUID": "436972637569746F2076322E6B696361",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 0.000,
+      "Y": 0.000
+    },
+    "LayerNumber": 2,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.600,
+      "PadToTrack":  0.600,
+      "TrackToTrack":  0.600,
+      "MinLineWidth":  1.000,
+      "TrackToRegion":  0.700,
+      "RegionToRegion":  0.700
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "Circuito v2-B.Cu.gbr",
+      "FileFunction":  "Copper,L2,Bot",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+    {
+      "Type":  "Copper",
+      "Notes":  "Layer B.Cu"
+    }
+  ]
+}
